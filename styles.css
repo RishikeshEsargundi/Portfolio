@@ -124,7 +124,7 @@ h1 {
     background-color: #f0f0f0;
     border-radius: 20px;
     text-align: center;
-    min-height: 50vh;
+    min-height: 50%;
     overflow: auto;
     transition: transform 0.45s ease;
 }

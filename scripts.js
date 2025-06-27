@@ -9,7 +9,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 
 function goToResumeLink(){
-    var driveLink = 'https://drive.google.com/file/d/1Brg1krqByow3s7ETX5qsl12D5wD_VDHX/view?usp=sharing';
+    var driveLink = 'https://drive.google.com/file/d/1VsgO3ioxUpxGn0jZLkJeonLeu0NRPyxk/view?usp=sharing';
     window.open(driveLink,'_blank');
 }
 
